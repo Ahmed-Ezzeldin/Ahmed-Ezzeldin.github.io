@@ -8660,6 +8660,10 @@ fieldset:disabled .btn {
   margin-bottom: 1rem !important;
 }
 
+.mb-3-2 {
+  margin-bottom: 0.5rem !important;
+}
+
 .mb-4 {
   margin-bottom: 1.5rem !important;
 }
@@ -12696,9 +12700,15 @@ p.lead {
   }
 
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
+    max-width: 13rem;
+    max-height: 13rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+
+  img.appicon-rounded-corners {
+    border-radius: 10px;
+    height: 40;
+    width: 40px;
   }
 
   #sideNav .navbar-collapse {
