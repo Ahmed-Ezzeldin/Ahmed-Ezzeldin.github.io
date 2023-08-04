@@ -12709,6 +12709,7 @@ p.lead {
     border-radius: 10px;
     height: 40;
     width: 40px;
+    border: 1.5px solid #E7E9EB;
   }
 
   #sideNav .navbar-collapse {
